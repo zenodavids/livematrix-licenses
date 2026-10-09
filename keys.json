@@ -1,0 +1,12 @@
+{
+  "LM-TEST-1234-5678-9ABC": {
+    "plan": "pro",
+    "expiresAt": null,
+    "maxDevices": 2
+  },
+  "LM-A7K2-9M4P-X2Q8-B3N5": {
+    "plan": "basic",
+    "expiresAt": "2026-12-31",
+    "maxDevices": 1
+  }
+}
